@@ -1,0 +1,6 @@
+## Interface: 90000
+## Author: Dudus
+## Version: 1
+## Title: [AntiAFK]
+
+AntiAFK.lua
